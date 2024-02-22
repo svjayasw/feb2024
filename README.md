@@ -8,7 +8,8 @@ do " pip install requests"  for above code (main.py)
 OUTPUT
 i am getting output as on running main.py
 :
-<img width="542" alt="image" src="https://github.com/svjayasw/feb2024/assets/78583646/d672ca0e-5af8-4fd6-b413-09214e31c818">
+<img width="480" alt="image" src="https://github.com/svjayasw/feb2024/assets/78583646/7c9d3ff2-b04d-495f-bc23-ab57bca83b27">
+
 
 python3  main.py --countryCodes AU US
 AU: Australia
