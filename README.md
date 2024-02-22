@@ -20,3 +20,8 @@ IN: India
 root@:~# python3  main.py --countryCodes AU PK
 AU: Australia
 PK: Pakistan
+
+
+
+**on running question 2 :**
+output is :<img width="368" alt="image" src="https://github.com/svjayasw/feb2024/assets/78583646/085335d0-af7c-4413-8017-d2f643278940">
